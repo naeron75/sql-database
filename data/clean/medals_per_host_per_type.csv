@@ -1,0 +1,72 @@
+host_country,game_year,medal_type,medals_won,percentage_of_total
+belgium,1920,bronze,11,8.09
+belgium,1920,gold,14,9.03
+belgium,1920,silver,11,7.48
+france,1924,bronze,10,8.00
+france,1924,gold,13,10.32
+france,1924,silver,15,11.81
+netherlands,1928,bronze,4,3.70
+netherlands,1928,gold,6,5.50
+netherlands,1928,silver,9,8.41
+usa,1932,bronze,30,26.32
+usa,1932,gold,41,35.34
+usa,1932,silver,32,27.59
+germany,1936,bronze,29,23.39
+germany,1936,gold,31,25.00
+germany,1936,silver,24,19.67
+"great britain",1948,bronze,6,4.35
+"great britain",1948,gold,3,2.17
+"great britain",1948,silver,14,10.37
+finland,1952,bronze,13,8.44
+finland,1952,gold,4,2.76
+finland,1952,silver,3,2.03
+australia,1956,bronze,14,8.97
+australia,1956,gold,13,8.84
+australia,1956,silver,8,5.44
+italy,1960,bronze,13,8.13
+italy,1960,gold,13,8.55
+italy,1960,silver,10,6.71
+japan,1964,bronze,8,4.60
+japan,1964,gold,16,9.82
+japan,1964,silver,5,2.99
+mexico,1968,bronze,3,1.64
+mexico,1968,gold,3,1.72
+mexico,1968,silver,3,1.76
+"federal republic of germany",1972,bronze,16,7.66
+"federal republic of germany",1972,gold,13,6.67
+"federal republic of germany",1972,silver,11,5.64
+canada,1976,bronze,6,2.78
+canada,1976,silver,5,2.51
+usa,1984,bronze,30,12.35
+usa,1984,gold,83,36.73
+usa,1984,silver,61,27.85
+"south korea",1988,bronze,11,4.20
+"south korea",1988,gold,12,4.98
+"south korea",1988,silver,10,4.27
+spain,1992,bronze,2,0.68
+spain,1992,gold,13,5.00
+spain,1992,silver,7,2.72
+usa,1996,bronze,25,8.39
+usa,1996,gold,44,16.24
+usa,1996,silver,32,11.72
+australia,2000,bronze,17,5.20
+australia,2000,gold,16,5.33
+australia,2000,silver,25,8.33
+greece,2004,bronze,4,1.23
+greece,2004,gold,6,1.99
+greece,2004,silver,6,2.00
+china,2008,bronze,30,8.50
+china,2008,gold,48,15.89
+china,2008,silver,22,7.28
+"great britain",2012,bronze,18,5.13
+"great britain",2012,gold,29,9.60
+"great britain",2012,silver,18,5.92
+brazil,2016,bronze,6,1.67
+brazil,2016,gold,7,2.28
+brazil,2016,silver,6,1.95
+japan,2020,bronze,17,4.24
+japan,2020,gold,27,7.94
+japan,2020,silver,14,4.14
+france,2024,bronze,20,5.41
+france,2024,gold,16,5.03
+france,2024,silver,24,7.50
