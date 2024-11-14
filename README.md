@@ -1,4 +1,4 @@
-# Olympic Games Analysis
+# Olympic Medals Analysis
 
 ## Project Overview
 This project investigates whether countries perform better when they host the Olympics, examining datasets from 1920 to 2024 with a specific focus on host country medal counts. The analysis is guided by the Host Country Advantage hypothesis, which is significant in the context of future Olympic bids by countries like Germany, Spain, and the UK for the 2040 Games, as well as potential economic and sports investments by these nations.
